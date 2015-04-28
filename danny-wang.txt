@@ -1,0 +1,5 @@
+I think this website is very useful, and it makes me have a fundamental knowladge of GIT.
+
+GIT is a good way to process version contorl. It makes a large amount of people can work together.
+
+Suggest: Your course is good, but I guess it would be better if you can show an example about how to use it with a complex project. For example, I can use SVN on NETBEANS IDE.
